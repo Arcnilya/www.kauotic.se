@@ -1,3 +1,6 @@
 [submodule "themes/hermit"]
 	path = themes/hermit
-	url = https://github.com/Track3/hermit.git
+	url = git@github.com:Arcnilya/hermit.git
+[submodule "themes/hermit2"]
+	path = themes/hermit2
+	url = git@github.com:Arcnilya/hermit.git

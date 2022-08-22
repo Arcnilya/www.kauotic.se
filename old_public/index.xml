@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>KAUotic Hacking Club</title>
+    <link>http://localhost/</link>
+    <description>Recent content on KAUotic Hacking Club</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 20 Aug 2022 18:24:22 +0200</lastBuildDate><atom:link href="http://localhost/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Presentations</title>
+      <link>http://localhost/groups/presentations/</link>
+      <pubDate>Sat, 20 Aug 2022 18:24:22 +0200</pubDate>
+      
+      <guid>http://localhost/groups/presentations/</guid>
+      <description>This group in the club schedules lectures and presentations.
+Anyone is welcome to present something, even topics not directly linked to hacking and security.
+Notable presentations in the past include people from Telia and Google.</description>
+    </item>
+    
+    <item>
+      <title>Ctf Dev</title>
+      <link>http://localhost/groups/ctf-dev/</link>
+      <pubDate>Sat, 20 Aug 2022 18:24:16 +0200</pubDate>
+      
+      <guid>http://localhost/groups/ctf-dev/</guid>
+      <description>This is a group of people in the club creating Capture The Flag hacking challenges of all difficulties.
+They are maintaining and developing the CTFd platform at ctf.kauotic.se.</description>
+    </item>
+    
+    <item>
+      <title>Ctf Team</title>
+      <link>http://localhost/groups/ctf-team/</link>
+      <pubDate>Sat, 20 Aug 2022 18:24:11 +0200</pubDate>
+      
+      <guid>http://localhost/groups/ctf-team/</guid>
+      <description>This is a group of people in the club playing Capture The Flag hacking games.</description>
+    </item>
+    
+  </channel>
+</rss>

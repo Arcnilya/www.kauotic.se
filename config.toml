@@ -1,3 +1,47 @@
-baseURL = 'http://example.org/'
+baseURL = 'http://localhost'
+#baseURL = 'https://kauotic.se'
 languageCode = 'en-us'
-title = 'My New Hugo Site'
+title = 'KAUotic Hacking Club'
+theme = 'hermit'
+
+[author]
+    name = "Arcnilya"
+
+[taxonomies]
+    tags = "tags"
+
+# Hermit dateform error fix
+[params]
+    dateform        = "Jan 2, 2006"
+    dateformShort   = "Jan 2"
+    dateformNum     = "2006-01-02"
+    dateformNumTime = "2006-01-02 15:04"
+
+    #themeColor = "#494f5c"
+    themeColor = "#555555"
+    bgImg = "images/kauotic_logo.png"
+    homeSubtitle = "a club at Karlstad University about hacking, privacy and security"
+    justifyContent = false
+    relatedPosts = false
+
+    [[params.social]]
+    name = "facebook"
+    url = "https://www.facebook.com/groups/kauotic"
+
+    [[params.social]]
+    name = "discord"
+    url = "https://discord.gg/vUxACEG2Qe"
+
+[menu]
+    [[menu.main]]
+    name = "About"
+    url = "about/"
+    weight = 10
+    [[menu.main]]
+    name = "Groups"
+    url = "groups/"
+    weight = 10
+    [[menu.main]]
+    name = "Events"
+    url = "events/"
+    weight = 30
