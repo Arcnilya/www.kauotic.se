@@ -19,22 +19,25 @@ Notable presentations in the past include people from Telia and Google.</descrip
     </item>
     
     <item>
-      <title>Ctf Dev</title>
+      <title>CTF Dev</title>
       <link>http://localhost/groups/ctf-dev/</link>
       <pubDate>Sat, 20 Aug 2022 18:24:16 +0200</pubDate>
       
       <guid>http://localhost/groups/ctf-dev/</guid>
-      <description>This is a group of people in the club creating Capture The Flag hacking challenges of all difficulties.
+      <description>CTF stands for Capture The Flag and is a gamified way of learning cybersecurity. wikipedia
+This is a group of people in the club creating CTF hacking challenges of all difficulties.
 They are maintaining and developing the CTFd platform at ctf.kauotic.se.</description>
     </item>
     
     <item>
-      <title>Ctf Team</title>
+      <title>CTF Team</title>
       <link>http://localhost/groups/ctf-team/</link>
       <pubDate>Sat, 20 Aug 2022 18:24:11 +0200</pubDate>
       
       <guid>http://localhost/groups/ctf-team/</guid>
-      <description>This is a group of people in the club playing Capture The Flag hacking games.</description>
+      <description>CTF stands for Capture The Flag and is a gamified way of learning cybersecurity. wikipedia
+This is a group of people in the club playing CTF hacking games hosted by various organizations with the main goal being learning and cooperation.
+Previous competitions have been hosted by HackTheBox (HTB), Totalförsvarets forskningsinstitut (FOI), Försvarets Radioanstalt (FRA), Militära underrättelse- och säkerhetstjänsten (MUST) and Säkerhetspolisen (SÄPO).</description>
     </item>
     
   </channel>
