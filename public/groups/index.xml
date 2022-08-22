@@ -13,9 +13,9 @@
       <pubDate>Sat, 20 Aug 2022 18:24:22 +0200</pubDate>
       
       <guid>http://localhost/groups/presentations/</guid>
-      <description>This group in the club schedules lectures and presentations.
-Anyone is welcome to present something, even topics not directly linked to hacking and security.
-Notable presentations in the past include people from Telia and Google.</description>
+      <description>This group in the club schedules and organizes lectures and presentations.
+Anyone is welcome to present something, even topics not directly linked to hacking and security. In the past we have had presentations about: linux command line, git basics, wargame playthrough, Tor introduction, hacking MIDI-controllers, hacking Mifare-cards and penetration-testing of mobile apps.
+Other notable presentations in the past include people from Telia and Google talking about company resilience and incident response.</description>
     </item>
     
     <item>
@@ -25,8 +25,8 @@ Notable presentations in the past include people from Telia and Google.</descrip
       
       <guid>http://localhost/groups/ctf-dev/</guid>
       <description>CTF stands for Capture The Flag and is a gamified way of learning cybersecurity. wikipedia
-This is a group of people in the club creating CTF hacking challenges of all difficulties.
-They are maintaining and developing the CTFd platform at ctf.kauotic.se.</description>
+This is a group of people in the club creating CTF hacking challenges, from beginner to advanced. The goal is to create fun and engaging puzzles and challenges which helps people understand cybersecurity ideas and problems.
+They are maintaining and developing the CTFd platform at ctf.kauotic.se. Feel free to register an account, capture a couple of flags and climb the leaderboard.</description>
     </item>
     
     <item>
@@ -36,7 +36,7 @@ They are maintaining and developing the CTFd platform at ctf.kauotic.se.</descri
       
       <guid>http://localhost/groups/ctf-team/</guid>
       <description>CTF stands for Capture The Flag and is a gamified way of learning cybersecurity. wikipedia
-This is a group of people in the club playing CTF hacking games hosted by various organizations with the main goal being learning and cooperation.
+This is a group of people in the club playing CTF hacking games hosted by various organizations. The two main goals are to gain knowledge and improve cooperation in the team, while getting high positions on leaderboards is a nice bonus.
 Previous competitions have been hosted by HackTheBox (HTB), Totalförsvarets forskningsinstitut (FOI), Försvarets Radioanstalt (FRA), Militära underrättelse- och säkerhetstjänsten (MUST) and Säkerhetspolisen (SÄPO).</description>
     </item>
     

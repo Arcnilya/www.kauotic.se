@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Events on KAUotic Hacking Club</title>
+    <link>http://localhost/events/</link>
+    <description>Recent content in Events on KAUotic Hacking Club</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 22 Aug 2022 14:31:05 +0200</lastBuildDate><atom:link href="http://localhost/events/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Website Created</title>
+      <link>http://localhost/events/website-created/</link>
+      <pubDate>Mon, 22 Aug 2022 14:31:05 +0200</pubDate>
+      
+      <guid>http://localhost/events/website-created/</guid>
+      <description>Hello World!
+This post in events marks the creation of the www.kauotic.se website. Past and upcoming events will also be listed there as time goes on.</description>
+    </item>
+    
+  </channel>
+</rss>

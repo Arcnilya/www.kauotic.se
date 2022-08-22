@@ -2,10 +2,16 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost/groups/</loc>
-    <lastmod>2022-08-20T18:24:22+02:00</lastmod>
+    <loc>http://localhost/events/</loc>
+    <lastmod>2022-08-22T14:31:05+02:00</lastmod>
   </url><url>
     <loc>http://localhost/</loc>
+    <lastmod>2022-08-22T14:31:05+02:00</lastmod>
+  </url><url>
+    <loc>http://localhost/events/website-created/</loc>
+    <lastmod>2022-08-22T14:31:05+02:00</lastmod>
+  </url><url>
+    <loc>http://localhost/groups/</loc>
     <lastmod>2022-08-20T18:24:22+02:00</lastmod>
   </url><url>
     <loc>http://localhost/groups/presentations/</loc>
