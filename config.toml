@@ -45,3 +45,6 @@ theme = 'hermit'
     name = "Events"
     url = "events/"
     weight = 30
+
+[markup.goldmark.renderer]
+    unsafe=true
