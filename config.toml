@@ -49,7 +49,7 @@ theme = 'hermit'
     url = "groups/"
     weight = 10
     [[menu.main]]
-    name = "events"
+    name = "Events"
     url = "events/"
     weight = 30
     [[menu.main]]
