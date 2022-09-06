@@ -17,6 +17,9 @@ theme = 'hermit'
     dateformNum     = "2006-01-02"
     dateformNumTime = "2006-01-02 15:04"
 
+    description = "KAUotic Hacking Club: a club at Karlstad University about hacking, privacy and security"
+    images = ["images/kauotic_logo.png"]
+
     #themeColor = "#494f5c"
     themeColor = "#555555"
     bgImg = "images/kauotic_logo.png"
@@ -31,6 +34,10 @@ theme = 'hermit'
     [[params.social]]
     name = "discord"
     url = "https://discord.gg/vUxACEG2Qe"
+    
+    [[params.social]]
+    name = "onion"
+    url = "http://kauotic3fumvif4borgm2eg2w6fxtapo43o6adjvwwe5tqhpbewuc7id.onion"
 
 [menu]
     [[menu.main]]
@@ -42,9 +49,13 @@ theme = 'hermit'
     url = "groups/"
     weight = 10
     [[menu.main]]
-    name = "Events"
+    name = "events"
     url = "events/"
     weight = 30
+    [[menu.main]]
+    name = "CTFd"
+    url = "https://ctf.kauotic.se"
+    weight = 40
 
 [markup.goldmark.renderer]
     unsafe=true
