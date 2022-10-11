@@ -1,6 +1,6 @@
 ---
 title: "Presentation 141022"
-date: 2022-10-10T09:45:25+02:00
+date: 2022-09-26T09:45:25+02:00
 ---
 
 <img src="/images/bandit_advanced_discord.png">
