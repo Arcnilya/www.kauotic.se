@@ -1,6 +1,6 @@
 ---
 title: "Presentation 011222"
-date: 2022-10-07T13:50:53+02:00
+date: 2022-10-09T13:50:53+02:00
 ---
 
 <img src="/images/c64_discord.png">
