@@ -28,16 +28,24 @@ theme = 'hermit'
     relatedPosts = false
 
     [[params.social]]
-    name = "facebook"
-    url = "https://www.facebook.com/groups/kauotic"
-
-    [[params.social]]
     name = "discord"
     url = "https://discord.gg/vUxACEG2Qe"
+
+    [[params.social]]
+    name = "twitter"
+    url = "https://www.twitter/kauotic"
+
+    [[params.social]]
+    name = "github"
+    url = "https://www.github.com/KAUotic"
     
     [[params.social]]
     name = "onion"
     url = "http://kauotic3fumvif4borgm2eg2w6fxtapo43o6adjvwwe5tqhpbewuc7id.onion"
+
+    [[params.social]]
+    name = "facebook"
+    url = "https://www.facebook.com/groups/kauotic"
 
 [menu]
     [[menu.main]]
