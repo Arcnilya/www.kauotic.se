@@ -1,0 +1,7 @@
+---
+title: "Hardware Hacking"
+date: 2023-01-11T10:41:13+01:00
+---
+Hardware hacking refers to the process of reverse engineering and modifying hardware components, devices and systems. This can include things like bypassing security measures, adding new features, or repurposing devices for different uses. Hardware hackers work with a wide range of different technologies and techniques, and often use a combination of software and hardware skills to accomplish their goals.
+
+The Hardware Hacking group within KAUotic Hacking Club is focused on exploring and experimenting with different types of hardware, including microcontrollers, single-board computers, game consoles and other electronic devices. They work to develop their skills in identifying and exploiting vulnerabilities in hardware, as well as modifying devices to add new functionality or to repurpose them for different uses. They may organize internal workshops or training sessions to teach members the basics of hardware hacking and to explore the latest tools and techniques used in the field. They also may participate in external events and competitions, such as those focused on IoT security, embedded systems or game console hacking, to showcase the group's expertise and also to challenge and improve their skills. Additionally, the group may also collaborate with other teams, such as the Bug Hunting group, to identify and report vulnerabilities in hardware devices, and contribute to the discovery of new attack scenarios and techniques.

@@ -1,0 +1,7 @@
+---
+title: "Bug Hunting"
+date: 2023-01-11T10:41:21+01:00
+---
+Bug bounties are programs in which organizations offer rewards, including monetary compensation, to individuals who can identify and report vulnerabilities in their software or systems. These programs are a way for organizations to find and fix security issues before they can be exploited by malicious actors and also a great opportunity for individuals to earn some extra money.
+
+The Bug Hunting group within KAUotic Hacking Club is responsible for learning and researching on bug hunting techniques and identifying vulnerabilities in the different software and systems. They work together to practice and develop their skills in finding these bugs and also to stay up-to-date with the latest trends and techniques used in bug hunting. One of the main responsibilities of the group is to help and guide members with zero experience in bug hunting, teach them how to identify and report vulnerabilities, and how they can earn rewards and some extra money. They may organize internal bug hunting competitions or challenges and provide training and guidance on how to participate in bug bounties programs. Additionally, the group may also collaborate with other groups in the club such as the Capture The Flag Developers to integrate the challenges they develop with real-world scenarios and bug hunting techniques. They also may provide support and guidance on how to report bugs and communicate with the vendors to get the rewards.

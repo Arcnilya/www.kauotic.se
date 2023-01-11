@@ -33,7 +33,7 @@ theme = 'hermit'
 
     [[params.social]]
     name = "twitter"
-    url = "https://www.twitter/kauotic"
+    url = "https://www.twitter.com/kauotic"
 
     [[params.social]]
     name = "github"

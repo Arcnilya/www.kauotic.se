@@ -1,0 +1,7 @@
+---
+title: "CTF Developers"
+date: 2023-01-11T10:41:49+01:00
+---
+Capture The Flag (CTF) competitions are a popular way for hackers and security enthusiasts to test and improve their skills. They are typically organized as a series of challenges that are designed to test a participant's knowledge and ability to identify and exploit vulnerabilities in a simulated environment.
+
+The Capture The Flag Developers group within KAUotic Hacking Club is focused on creating and developing new challenges and challenge scenarios for CTF competitions. They are responsible for designing, testing and refining the challenges, making sure they are suitable for the competition and also that they test the necessary skills. The team create challenges for all levels of difficulty catering for beginners to experts. They may be responsible for creating challenges in different categories such as web exploitation, reverse engineering, cryptography and others. They can also provide training and guidance to other teams and members of the club who are preparing for CTFs. The team may also research and stay up-to-date on new exploitation and attack techniques and trends, to ensure that the challenges they create are relevant and of high-quality. They are maintaining and developing the CTFd platform at [ctf.kauotic.se](https://ctf.kauotic.se). Feel free to register an account, capture a couple of flags and climb the leaderboard!
