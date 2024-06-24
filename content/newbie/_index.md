@@ -13,9 +13,9 @@ for YOU! When you have solved 3 of our challenges in a category you can head
 to one of our CTF events and get a cool sticker!
 
 We have stickers for three different categories: 
-[Web](newbie/web), 
-[Rev/Pwn](newbie/rev-pwn), and 
-[Crypto](newbie/crypto).
+[Web](web), 
+[Rev/Pwn](rev-pwn), and 
+[Crypto](crypto).
 The idea is that you should feel more prepared and confident when playing
 CTFs with us. The stickers are not a requirement for joining though.
 
