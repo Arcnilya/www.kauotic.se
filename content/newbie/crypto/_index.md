@@ -9,6 +9,24 @@ from very simple ciphers to public key signatures. The most common usecase
 for cryptography is *confidentiality*, aka hide information from unintended
 eyes.
 
+Let us start with something easy, a ceasar cipher. For this cipher you simply
+rotate the alphabet a certain number of steps (13 is the most popular).
+```
+ABCDEFGHIJKLMNOPQRSTUVWXYZ (Normal)
+NOPQRSTUVWXYZABCDEFGHIJKLM (rot13)
+
+rot13("FLAG") -> "SYNT"
+```
+
+Next we have encodings. Base64 is a way of encoding data into a text format
+that can be easily transmitted over text-based protocols like email or included
+in URLs without causing issues. Base64 takes binary data and encodes it into a
+set of 64 characters that are safe to use in text form. The characters used in
+Base64 encoding are: uppercase letters, lowercase letters, numbers as well as
+"/" and "+". The "=" is used as padding at the end to make sure that the
+encoded data length is a multiple of four.
+
+## Symmetric Key Crypto
 Alice wants to send a message to Bob through Eve. But she does not want Eve to
 read the message. Alice could write the message backwards or rotate the
 alphabet so that A becomes N, and B becomes O, but that might be too simple.
@@ -23,6 +41,7 @@ enc(message, key) -> cipher
 dec(cipher, key) -> message
 ```
 
+## Asymmetric Key Crypto
 There is also something called asymmetric cryptography, also known as public
 key crypto. Bob will have two keys: a public key and a private key. You can
 imagine the public key as a padlock. Bob can publically post this padlock
