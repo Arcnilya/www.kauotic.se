@@ -46,6 +46,18 @@ theme = 'hermit'
     name = "Events"
     url = "events/"
     weight = 20
+    [[menu.main]]
+    name = "Newbie"
+    url = "newbie/"
+    weight = 30
+    [[menu.main]]
+    name = "Sponsors"
+    url = "sponsors/"
+    weight = 40
+    [[menu.main]]
+    name = "Hackerspace"
+    url = "https://hackerspace.kauotic.se/"
+    weight = 50
 
 [markup.goldmark.renderer]
     unsafe=true

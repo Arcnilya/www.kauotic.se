@@ -30,3 +30,4 @@ Join our [[Discord]](https://discord.gg/vUxACEG2Qe) to get event notifications
 and/or chat with like-minded people.
 
 Welcome to KAUotic Hacking Club, we are excited to have you! :D
+

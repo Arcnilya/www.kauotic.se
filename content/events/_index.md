@@ -1,5 +1,9 @@
 # Past Events
 
+2024-09-25, Presentation, KAUotic Hackerspace Grand Opening
+
+2024-09-16, Meeting, KAUotic Autumn 2024 by Jonathan Magnusson
+
 2024-06-03, Presentation, Cyber Range Lite by Jonathan Magnusson
 
 2024-05-24, Workshop, Dizparc Secured Cyber Exercise 242
