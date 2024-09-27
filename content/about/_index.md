@@ -26,7 +26,7 @@ play CTFs.
 Check out our [Events](/events) page to see a list of our past activities. If
 you have a suggestion for an event, please don't hesitate to contact us. We
 would love to hear from you!  
-Join our [[Discord]](https://discord.gg/vUxACEG2Qe) to get event notifications
+Join our [[Discord]](https://discord.gg/rmEykkCVbg) to get event notifications
 and/or chat with like-minded people.
 
 Welcome to KAUotic Hacking Club, we are excited to have you! :D
