@@ -3,11 +3,11 @@ title: "Crypto"
 date: 2024-06-18T13:49:00+02:00
 ---
 
-When we say "crypto" we mean cryptography, not Bitcoins (sometimes the 
-category "Blockchain" shows up in some CTFs).  The crypto challenges can range
-from very simple ciphers to public key signatures. The most common usecase
-for cryptography is *confidentiality*, aka hide information from unintended
-eyes.
+When we say "crypto" we mean cryptography, not Bitcoins. The crypto challenges
+can range from very simple ciphers to public key signatures. The most common
+usecase for cryptography is to hide information from unintended eyes, but it
+can also be used to verify who information is from and check if it has been
+modified in transit.
 
 Let us start with something easy, a ceasar cipher. For this cipher you simply
 rotate the alphabet a certain number of steps (13 is the most popular).
@@ -25,6 +25,10 @@ set of 64 characters that are safe to use in text form. The characters used in
 Base64 encoding are: uppercase letters, lowercase letters, numbers as well as
 "/" and "+". The "=" is used as padding at the end to make sure that the
 encoded data length is a multiple of four.
+
+```
+base64("Hello") -> "SGVsbG8="
+```
 
 ## Symmetric Key Crypto
 Alice wants to send a message to Bob through Eve. But she does not want Eve to

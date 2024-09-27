@@ -13,6 +13,8 @@ your keyboard when visiting a website, or right-click and select
 "View Page Source" or "Inspect". You can also add "view-source:"
 in front of the URL.
 
+<img width="100%" style='border:1px solid #FFFFFF' src="/images/newbie-web1.png" />
+
 Here you can find JavaScript adding functionalities to the website, references
 to hidden or forgotten pages, and sometimes interesting comments or even
 passwords (yes, it happens).
@@ -31,10 +33,6 @@ There is a common type of web attacks classified as "injections".
 SQL injection, JavaScript injection (also known as Cross-site scripting (XSS)),
 and Template injection. All of these methods rely on input fields to
 change the behavior of the website.
-
-If you have a Linux machine with a terminal/shell, then you have access
-to some nice tools for Web challenges! One of the most basic tools is
-[curl](https://www.man7.org/linux/man-pages/man1/curl.1.html).
 
 ### Useful platforms
 - https://overthewire.org/wargames/natas/
