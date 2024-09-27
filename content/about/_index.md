@@ -2,7 +2,7 @@
 title: "About"
 date: 2024-06-18T13:18:08+02:00
 ---
-Welcome to KAUotic Hacking Club!
+Welcome to the KAUotic Hacking Club!
 
 We are a community of people interested in computers, hacking, privacy, and
 security. Our goal is to create a community that attracts individuals with a

@@ -1,0 +1,27 @@
+{{ if .IsNamedParams }}
+    {{ errorf "csvtable shortcode does not support named parameters" }}
+{{ else if eq (len .Params) 0 }}
+    {{ errorf "csvtable shortcode requires a CSV file path" }}
+{{ else }}
+    <!-- Read the CSV file using the first argument -->
+    {{ $csvPath := .Get 0 }}
+
+    <table>
+        <colgroup>
+            <col span="1" style="width: 15%;">
+            <col span="1" style="width: 15%;">
+            <col span="1" style="width: 70%;">
+        </colgroup>
+        <tbody>
+            <!-- Load the CSV file and iterate through the rows -->
+            {{ $csv := getCSV "," $csvPath }}
+            {{ range $csv }}
+            <tr>
+                <td>{{ index . 0 }}
+                <td>{{ index . 1 }}
+                <td>{{ index . 2 }}
+            </tr>
+            {{ end }}
+        </tbody>
+    </table>
+{{ end }}
