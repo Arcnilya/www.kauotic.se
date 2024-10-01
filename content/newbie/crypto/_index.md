@@ -81,6 +81,7 @@ hash(message2) -> hash_digest2
 - https://rot13.com/
 - https://cryptii.com/
 - https://www.dcode.fr/en
+- https://hashes.com/en/decrypt/hash
 - [Cipher Identifier and Analyzer](https://www.boxentriq.com/code-breaking/cipher-identifier)
 - [CyberChef](https://gchq.github.io/CyberChef/)
 - [RsaCtfTool](https://github.com/RsaCtfTool/RsaCtfTool)
