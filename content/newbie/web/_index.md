@@ -49,6 +49,6 @@ change the behavior of the website.
 
 ### Try your skills
 If you feel ready then you can try to solve our [Web
-challenges](http://intro.kauotic.se) (registration code: 1337).
+challenges](http://intro.crl.kauotic.se) (registration code: 1337).
 When you have solved three of them, head over to one of our CTF events
 and you will get a sticker!

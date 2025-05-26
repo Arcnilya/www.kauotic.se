@@ -85,11 +85,12 @@ hash(message2) -> hash_digest2
 - [Cipher Identifier and Analyzer](https://www.boxentriq.com/code-breaking/cipher-identifier)
 - [CyberChef](https://gchq.github.io/CyberChef/)
 - [RsaCtfTool](https://github.com/RsaCtfTool/RsaCtfTool)
+- [Substitution Solver](https://www.guballa.de/substitution-solver)
 
 
 ### Try your skills
 If you feel ready then you can try to solve our [Crypto
-challenges](http://intro.kauotic.se) (registration code: 1337). When you have
+challenges](http://intro.crl.kauotic.se) (registration code: 1337). When you have
 solved three of them, head over to one of our CTF events and you will get a
 sticker!
 

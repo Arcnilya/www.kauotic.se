@@ -48,7 +48,7 @@ Can you circumvent certain checks?
 
 ### Try your skills
 If you feel ready then you can try to solve out [Rev/Pwn
-challenges](http://intro.kauotic.se) (registration code: 1337). When you
+challenges](http://intro.crl.kauotic.se) (registration code: 1337). When you
 have solved three of them, head over to one of our CTF events and you will
 get a sticker!
 
