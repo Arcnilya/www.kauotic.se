@@ -56,7 +56,8 @@ theme = 'hermit'
     weight = 40
     [[menu.main]]
     name = "Hackerspace"
-    url = "https://hackerspace.kauotic.se/"
+    #url = "https://hackerspace.kauotic.se/"
+    url = "hackerspace/"
     weight = 50
 
 [markup.goldmark.renderer]
